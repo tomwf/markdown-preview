@@ -1,5 +1,5 @@
 <header>
-  <h1><a href="">Markdown Preview</a></h1>
+  <h1><a href="https://github.com/tomwf/markdown-preview">Markdown Preview</a></h1>
 </header>
 
 <style lang="scss">
