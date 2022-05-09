@@ -28,4 +28,4 @@ http://localhost:3000
 
 ## Link
 
-- Live Demo: [Markdown Preview](https://tomwf-markdown.vercel.app/)
+Live Demo: [Markdown Preview](https://tomwf-markdown.vercel.app/)
